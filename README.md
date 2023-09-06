@@ -1,5 +1,5 @@
 # 💫 About Me:
- I am a pre-final year student at the Indian Institute of Technology, Jodhpur. Currently, I am interested in Programming and Software Development.<br>For the most part, I am an exuberant and determined person with a knack for problem-solving, fascinated and enthusiastic about the different approaches<br> and methods for solving a problem. I enjoy competitive programming backed by knowledge of data structure and algorithms.<br>My key interest lies in the field of Development and Machine Learning. Moving forward, I look towards deep-diving into full-stack development concepts and <br>Internship opportunities in Software Development Role.
+ I am a Final year student at the Indian Institute of Technology, Jodhpur. Currently, I am interested in Programming and Software Development.<br>For the most part, I am an exuberant and determined person with a knack for problem-solving, fascinated and enthusiastic about the different approaches<br> and methods for solving a problem. I enjoy competitive programming backed by knowledge of data structure and algorithms.<br>My key interest lies in the field of Development and Machine Learning. Moving forward, I look towards deep-diving into full-stack development concepts and <br>Internship opportunities in Software Development Role.
 
 
 ## 🌐 Socials:
