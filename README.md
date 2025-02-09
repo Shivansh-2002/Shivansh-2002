@@ -1,5 +1,11 @@
 # 💫 About Me:
- I am a Final year student at the Indian Institute of Technology, Jodhpur. Currently, I am interested in Programming and Software Development.<br>For the most part, I am an exuberant and determined person with a knack for problem-solving, fascinated and enthusiastic about the different approaches<br> and methods for solving a problem. I enjoy competitive programming backed by knowledge of data structure and algorithms.<br>My key interest lies in the field of Development and Machine Learning. Moving forward, I look towards deep-diving into full-stack development concepts and <br>Internship opportunities in Software Development Role.
+ Hello! I'm Shivansh Jaiswal, a Software Engineer with a B.Tech from the Indian Institute of Technology, Jodhpur. Currently working at Girman Technology, I specialize in full-stack development and cloud technologies.
+
+I'm passionate about building scalable solutions and solving complex problems. With hands-on experience in backend development using Django and FastAPI, along with frontend technologies like React and Next.js, I enjoy creating end-to-end solutions that make a difference.
+
+My experience spans from developing AI-powered chatbots to implementing multi-tenant architectures, and I continue to explore new technologies while maintaining a strong foundation in data structures and algorithms through competitive programming.
+
+
 
 
 ## 🌐 Socials:
