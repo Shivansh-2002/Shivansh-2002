@@ -5,7 +5,7 @@ I'm passionate about building scalable solutions and solving complex problems. W
 
 My experience spans from developing AI-powered chatbots to implementing multi-tenant architectures, and I continue to explore new technologies while maintaining a strong foundation in data structures and algorithms through competitive programming.
 
-
+Link to my resume: https://drive.google.com/file/d/1huQBOZByT_zFz9Bg1vSaQ7dFlqCfw0CO/view?usp=sharing
 
 
 ## 🌐 Socials:
